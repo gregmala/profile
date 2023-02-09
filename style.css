@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500;700&family=Open+Sans:wght@400;500&family=Roboto:wght@100;700&display=swap');
+
+body {
+background-color: #EBF2FA;
+
+}
+
+.img-circle {
+  border-radius: 50%;
+  height:100px ;
+  width: 100px;
+}
+
+p {
+  color: #8338EC;
+  font-family: 'Lora', serif;
+
+
+}
+h1 {
+  color: #FF006E;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  padding: 20px;
+  margin: 2px;
+}
+h2 {
+  color: #FB5607;
+  font-family: 'Roboto', sans-serif;
+}
+ul {
+  color: #FB5607;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+a{
+  font-family: 'Lora', serif;
+  font-weight: 700;
+  text-decoration: none;
+  margin: 10px;
+}
+
+a:hover {
+  font-weight: 700;
+  color:#FF006E;
+}
+
+.card {
+  width: 700px;
+  background-color: white;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.card2 {
+  width: 700px;
+  background-color: white;
+  margin: 51px auto;
+  text-align: center;
+  padding: 50px auto;
+  padding-bottom: 10px;
+  padding-top: 10px;
+
+}
+
+.fa-brands {
+  height:50px ;
+  width: 50px
+}
+
+li {
+  font-size: 50px;
+  display: inline-block;
+}
+
+.btn {
+  background-color: #8338EC;
+  color: white;
+  padding: 5px 15px;
+  border-radius: 4px;
+}
